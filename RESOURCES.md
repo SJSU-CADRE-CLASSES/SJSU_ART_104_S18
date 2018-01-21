@@ -15,3 +15,7 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_S18
 [GreenSheet](https://github.com/ablanton/SJSU_ART_104_S18/blob/master/GREENSHEET.md)
 | [Resources](https://github.com/ablanton/SJSU_ART_104_S18/blob/master/RESOURCES.md)
 | [Class Website](https://github.com/ablanton/SJSU_ART_104_S18)
+
+Resources
+---------
+
