@@ -73,7 +73,7 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 01/24      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** **Reading 1: assigned in class** |
+| *Week 1* 01/24      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
 | *Week 2* 01/31      | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: assigned in class** ** Introduction to HTML |
 | *Week 3* 02/07      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: assigned in class** Website Setup and Git Pipeline |
 | *Week 4* 02/14      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: assigned in class** ** HTML 2 |
