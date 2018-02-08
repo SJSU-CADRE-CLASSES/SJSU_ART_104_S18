@@ -1,0 +1,1 @@
+ Reading responses will illustrate your brief summary of, along with your questions and challenges to, the text. Please use paragraph format, and spell-check - no bullet points. Reading responses will be assessed based upon quality and specificity of your response, as well as attention to key ideas from the assigned readings.
