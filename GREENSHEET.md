@@ -80,14 +80,18 @@ Schedule
 | *Week 5* 02/21      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: assigned in class** ** Forming SWITCH Groups and Begin Working on site design|
 | *Week 6* 02/28      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: assigned in class** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
 | *Week 7* 03/07      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: assigned in class** ** Group Work Beginning Research For Final |
+| Thursday 03/08      | **Andrew Presenting at IBM Almeden**
 | *Week 8* 03/14      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers |
 | *Week 9* 03/21      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: assigned in class** ** Research and in class work on papers |
+| Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
 | *Week 10* 03/28     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
 | *Week 11* 04/04     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
+| Thursday 04/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Week 12* 04/11     | Final Presentation Proposals + Discussion/Critique **Reading 12 bonus: assigned in class** |
 | *Week 13* 04/18     | No Class Due to ATC (Advancement to Candidacy) ** Final Paper Requirements Posted to the git. Students will present their ideas on 11/08 to the class. |
 | *Week 14* 04/25     | Thanksgiving! No Class |
 | *Week 15* 05/02     | **Reading 11 Due** |
+| Date TBA            | **Hammer Graduating Group Show**
 | *Week 16* 05/09     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
 | *Final*  TBA      | Final Released |
 |                  |  |
