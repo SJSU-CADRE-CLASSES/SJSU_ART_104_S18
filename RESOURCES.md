@@ -28,3 +28,21 @@ virtual insanity https://www.youtube.com/watch?v=Et9b7LWfnxQ
 sopheia the robot https://www.youtube.com/watch?v=78-1MlkxyqI
 colorful colorado https://www.youtube.com/watch?v=6-l2GJ7eou8
 analog computer https://www.google.com/search?q=analog+computer&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCgqnVnoPZAhUL-2MKHSGlCScQ_AUICigB&biw=1042&bih=639#imgrc=0sAtdTO7f5qylM:
+
+1/31
+Additive Color - https://en.wikipedia.org/wiki/Additive_color
+iPhone lcd under microscope - http://bgr.com/2017/11/07/iphone-x-display-microscope-oled-vs-lcd/
+AI Generated Obama - https://www.youtube.com/watch?v=dkoi7sZvWiU
+Niquist - https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem
+Amazon Mechanical Turk - https://www.mturk.com/
+The Mechanical Turk - https://en.wikipedia.org/wiki/The_Turk
+This is Alive, bio art - http://thisisalive.com/yamanaka-furniture/
+Jacquard loom - https://en.wikipedia.org/wiki/Jacquard_loom
+Analog Computer - https://en.wikipedia.org/wiki/Analog_computer
+Drawing Mushrooms with an Ocilliscope - https://www.youtube.com/watch?v=rtR63-ecUNo
+Boaty McBoatface - https://en.wikipedia.org/wiki/Boaty_McBoatface
+Dark Patterns - https://darkpatterns.org/
+Fake Friends with real bennifits - https://medium.com/i-data/fake-friends-with-real-benefits-eec8c4693bd3
+Cradle to Cradle - https://en.wikipedia.org/wiki/Cradle-to-cradle_design
+Deep Dream - https://en.wikipedia.org/wiki/DeepDream
+Social Hacking - https://www.youtube.com/watch?v=lc7scxvKQOo
