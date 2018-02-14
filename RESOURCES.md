@@ -46,3 +46,6 @@ Fake Friends with real bennifits - https://medium.com/i-data/fake-friends-with-r
 Cradle to Cradle - https://en.wikipedia.org/wiki/Cradle-to-cradle_design
 Deep Dream - https://en.wikipedia.org/wiki/DeepDream
 Social Hacking - https://www.youtube.com/watch?v=lc7scxvKQOo
+
+2/14
+Short Sci-Fi film "Uncanny Valley" - https://www.youtube.com/watch?v=UXX0TRtg5Vk
