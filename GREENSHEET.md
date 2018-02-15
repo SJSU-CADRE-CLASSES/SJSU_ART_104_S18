@@ -76,7 +76,7 @@ Schedule
 | *Week 1* 01/24      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
 | *Week 2* 01/31      | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: https://schloss-post.com/pretend-bot-rehumanize-web/ or http://andrewblanton.com/Kittler_Ogger.pdf** ** Introduction to HTML |
 | *Week 3* 02/07      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: http://idyrself.com/** Website Setup and Git Pipeline |
-| *Week 4* 02/14      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: assigned in class** ** HTML 2 |
+| *Week 4* 02/14      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249** ** HTML 2 |
 | *Week 5* 02/21      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: assigned in class** ** Forming SWITCH Groups and Begin Working on site design|
 | *Week 6* 02/28      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: assigned in class** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
 | *Week 7* 03/07      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: assigned in class** ** Group Work Beginning Research For Final |
