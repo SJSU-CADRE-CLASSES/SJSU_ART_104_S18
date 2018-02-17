@@ -48,4 +48,12 @@ Deep Dream - https://en.wikipedia.org/wiki/DeepDream
 Social Hacking - https://www.youtube.com/watch?v=lc7scxvKQOo
 
 2/14
-Short Sci-Fi film "Uncanny Valley" - https://www.youtube.com/watch?v=UXX0TRtg5Vk
+1. Short Sci-Fi film "Uncanny Valley" - https://www.youtube.com/watch?v=UXX0TRtg5Vk
+2. Yung Jake Datamosh - https://www.youtube.com/watch?v=nS7QvOX8LVk
+3. Yung Jake embeded - http://e.m-bed.de/d/
+4. Rhizome - http://rhizome.org/community/
+5. The External World - https://www.youtube.com/watch?v=OxPyN6IK1tM
+6. octocat - https://www.youtube.com/watch?v=XV6dLhepx6w
+7. Wafaa Bilal - https://www.youtube.com/watch?v=kQt2b7A7ui8
+8. Angela Washko - http://angelawashko.com/artwork/3031596-Playing-A-Girl.html
+9. Hito Steyerl - https://www.youtube.com/watch?v=sNW1PP-034Q
