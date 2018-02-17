@@ -19,33 +19,33 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_S18
 Resources
 ---------
 1/30
-killer robot https://www.youtube.com/watch?v=fRj34o4hN4I
-i will say whatever you want for a pizza https://vimeo.com/222496000
-anxious to make https://vimeo.com/177628906
-sandin cave https://www.google.com/search?q=cave+technology&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiTgrvknYPZAhUX22MKHbu-AaQQ_AUICigB&biw=1042&bih=639#imgrc=N2PaRvze2_rLAM:
-abacus https://www.google.com/imgres?imgurl=https://i5.walmartimages.com/asr/f772dc8d-3f03-4341-8ac8-10c5876e729f_1.3eebfa4be932e354cad2fe79216c4709.jpeg?odnHeight%3D450%26odnWidth%3D450%26odnBg%3DFFFFFF&imgrefurl=https://www.walmart.com/ip/Abacus/24862922&h=450&w=450&tbnid=8b5YcAW_AYis-M:&tbnh=186&tbnw=186&usg=__D0iUgT9agbQTVg7_fDDC_JqIEB8%3D&vet=10ahUKEwjDts2-noPZAhVL6WMKHSsEDjEQ_B0I9wEwFQ..i&docid=Mpn24pTd6FG59M&itg=1&sa=X&ved=0ahUKEwjDts2-noPZAhVL6WMKHSsEDjEQ_B0I9wEwFQ
-virtual insanity https://www.youtube.com/watch?v=Et9b7LWfnxQ
-sopheia the robot https://www.youtube.com/watch?v=78-1MlkxyqI
-colorful colorado https://www.youtube.com/watch?v=6-l2GJ7eou8
-analog computer https://www.google.com/search?q=analog+computer&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCgqnVnoPZAhUL-2MKHSGlCScQ_AUICigB&biw=1042&bih=639#imgrc=0sAtdTO7f5qylM:
+1. killer robot https://www.youtube.com/watch?v=fRj34o4hN4I
+2. i will say whatever you want for a pizza https://vimeo.com/222496000
+3. anxious to make https://vimeo.com/177628906
+4. sandin cave https://www.google.com/search?q=cave+technology&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiTgrvknYPZAhUX22MKHbu-AaQQ_AUICigB&biw=1042&bih=639#imgrc=N2PaRvze2_rLAM:
+5. abacus https://www.google.com/imgres?imgurl=https://i5.walmartimages.com/asr/f772dc8d-3f03-4341-8ac8-10c5876e729f_1.3eebfa4be932e354cad2fe79216c4709.jpeg?odnHeight%3D450%26odnWidth%3D450%26odnBg%3DFFFFFF&imgrefurl=https://www.walmart.com/ip/Abacus/24862922&h=450&w=450&tbnid=8b5YcAW_AYis-M:&tbnh=186&tbnw=186&usg=__D0iUgT9agbQTVg7_fDDC_JqIEB8%3D&vet=10ahUKEwjDts2-noPZAhVL6WMKHSsEDjEQ_B0I9wEwFQ..i&docid=Mpn24pTd6FG59M&itg=1&sa=X&ved=0ahUKEwjDts2-noPZAhVL6WMKHSsEDjEQ_B0I9wEwFQ
+6. virtual insanity https://www.youtube.com/watch?v=Et9b7LWfnxQ
+7. sopheia the robot https://www.youtube.com/watch?v=78-1MlkxyqI
+8. colorful colorado https://www.youtube.com/watch?v=6-l2GJ7eou8
+9. analog computer https://www.google.com/search?q=analog+computer&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCgqnVnoPZAhUL-2MKHSGlCScQ_AUICigB&biw=1042&bih=639#imgrc=0sAtdTO7f5qylM:
 
 1/31
-Additive Color - https://en.wikipedia.org/wiki/Additive_color
-iPhone lcd under microscope - http://bgr.com/2017/11/07/iphone-x-display-microscope-oled-vs-lcd/
-AI Generated Obama - https://www.youtube.com/watch?v=dkoi7sZvWiU
-Niquist - https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem
-Amazon Mechanical Turk - https://www.mturk.com/
-The Mechanical Turk - https://en.wikipedia.org/wiki/The_Turk
-This is Alive, bio art - http://thisisalive.com/yamanaka-furniture/
-Jacquard loom - https://en.wikipedia.org/wiki/Jacquard_loom
-Analog Computer - https://en.wikipedia.org/wiki/Analog_computer
-Drawing Mushrooms with an Ocilliscope - https://www.youtube.com/watch?v=rtR63-ecUNo
-Boaty McBoatface - https://en.wikipedia.org/wiki/Boaty_McBoatface
-Dark Patterns - https://darkpatterns.org/
-Fake Friends with real bennifits - https://medium.com/i-data/fake-friends-with-real-benefits-eec8c4693bd3
-Cradle to Cradle - https://en.wikipedia.org/wiki/Cradle-to-cradle_design
-Deep Dream - https://en.wikipedia.org/wiki/DeepDream
-Social Hacking - https://www.youtube.com/watch?v=lc7scxvKQOo
+1. Additive Color - https://en.wikipedia.org/wiki/Additive_color
+2. iPhone lcd under microscope - http://bgr.com/2017/11/07/iphone-x-display-microscope-oled-vs-lcd/
+3. AI Generated Obama - https://www.youtube.com/watch?v=dkoi7sZvWiU
+4. Niquist - https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem
+5. Amazon Mechanical Turk - https://www.mturk.com/
+6. The Mechanical Turk - https://en.wikipedia.org/wiki/The_Turk
+7. This is Alive, bio art - http://thisisalive.com/yamanaka-furniture/
+8. Jacquard loom - https://en.wikipedia.org/wiki/Jacquard_loom
+9. Analog Computer - https://en.wikipedia.org/wiki/Analog_computer
+10. Drawing Mushrooms with an Ocilliscope - https://www.youtube.com/watch?v=rtR63-ecUNo
+11. Boaty McBoatface - https://en.wikipedia.org/wiki/Boaty_McBoatface
+12. Dark Patterns - https://darkpatterns.org/
+13. Fake Friends with real bennifits - https://medium.com/i-data/fake-friends-with-real-benefits-eec8c4693bd3
+14. Cradle to Cradle - https://en.wikipedia.org/wiki/Cradle-to-cradle_design
+15. Deep Dream - https://en.wikipedia.org/wiki/DeepDream
+16. Social Hacking - https://www.youtube.com/watch?v=lc7scxvKQOo
 
 2/14
 1. Short Sci-Fi film "Uncanny Valley" - https://www.youtube.com/watch?v=UXX0TRtg5Vk
