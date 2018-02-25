@@ -57,3 +57,14 @@ Resources
 7. Wafaa Bilal - https://www.youtube.com/watch?v=kQt2b7A7ui8
 8. Angela Washko - http://angelawashko.com/artwork/3031596-Playing-A-Girl.html
 9. Hito Steyerl - https://www.youtube.com/watch?v=sNW1PP-034Q
+
+2/21
+1. AGI https://en.wikipedia.org/wiki/Artificial_general_intelligence
+2. Neural Networks https://en.wikipedia.org/wiki/Artificial_neural_network
+3. Real Friends Fake Benifets https://medium.com/i-data/fake-friends-with-real-benefits-eec8c4693bd3
+4. Facebook Research https://research.fb.com/
+5. Twitter Research https://twitter.com/research?lang=en
+6. IBM Research http://www.research.ibm.com/blockchain/
+7. When I Think About You I Text Myself http://whenithinkaboutyouitextmyself.com/
+8. Google Research https://research.google.com/
+9. Kinetecharts http://kinetecharts.org/artists-gallery/bdvs63juzpv21ogumvlj4q3909rhzk
