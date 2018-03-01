@@ -78,7 +78,7 @@ Schedule
 | *Week 3* 02/07      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: http://idyrself.com/** Website Setup and Git Pipeline |
 | *Week 4* 02/14      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249** ** HTML 2 |
 | *Week 5* 02/21      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Ways of Seeing parts 1-4 https://www.youtube.com/watch?v=0pDE4VX_9Kk https://www.youtube.com/watch?v=m1GI8mNU5Sg https://www.youtube.com/watch?v=Z7wi8jd7aC4 https://www.youtube.com/watch?v=5jTUebm73IY** ** Forming SWITCH Groups and Begin Working on site design|
-| *Week 6* 02/28      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: assigned in class** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
+| *Week 6* 02/28      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
 | *Week 7* 03/07      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: assigned in class** ** Group Work Beginning Research For Final |
 | Thursday 03/08      | **Andrew Presenting at IBM Almeden**
 | *Week 8* 03/14      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers |
