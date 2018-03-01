@@ -68,3 +68,12 @@ Resources
 7. When I Think About You I Text Myself http://whenithinkaboutyouitextmyself.com/
 8. Google Research https://research.google.com/
 9. Kinetecharts http://kinetecharts.org/artists-gallery/bdvs63juzpv21ogumvlj4q3909rhzk
+
+2/28
+1. Vege LeBurn https://www.metmuseum.org/toah/images/hb/hb_53.225.5.jpg
+2. Development of the jpg format https://mashable.com/2017/09/28/lena-photo-legacy-image-compression/#vT43pyf6.mqi
+3. olpc https://www.google.com/search?q=olpc&source=lnms&tbm=isch&sa=X&ved=0ahUKEwje3Lyhu8nZAhVhlFQKHUuXBHAQ_AUIDCgD&biw=1312&bih=771#imgrc=YLSe78HqrlmQ6M:
+4. the man with the movie camera https://www.youtube.com/watch?v=z97Pa0ICpn8
+5. Bruce Sterling https://www.youtube.com/watch?v=E2Fb7ezbVtY
+6. VR reaction https://www.youtube.com/watch?v=l3V8zeSljUU
+7. VR therapy http://ict.usc.edu/prototypes/pts/
