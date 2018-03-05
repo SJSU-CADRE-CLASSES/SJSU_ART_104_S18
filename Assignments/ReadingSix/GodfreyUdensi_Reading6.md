@@ -17,4 +17,4 @@ to tell Americans of this development?" Why should the average American not be a
 
 The invisible visual culture is not just restricted to the above but also extends to the human-to-human context. The advent of social media has 
 put billions of pictures on the internet and AI has taken advantage of this human visual culture and transformed it into a massive flexible 
-training set. 
+training set. I just found out about facebook's Deep Mask and Google's tensor flow which are algorithms we humans are feeding on a daily basis for purposes of facial recognition and a host of other reasons. While this is plausible and impressive, do they have our express permission to use our pictures for research? Do they use our pictures for other purposes other than what has been stated in this article? I'd say yes in capital letters.
