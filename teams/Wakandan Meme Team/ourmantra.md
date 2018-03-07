@@ -11,5 +11,5 @@ The development of memes in history and what their equivalents were before memes
 Is meme theory some psuedoscientific bs or is it a legitamate form of cultural expression?
 
 ## Literature and Interactive Website
-Richard Dawkins made the meme word in the selfish gene
-Possibly a p5 sketch to go along with the discussion to demonstrate how the frequency of meme development has changed.
+* Richard Dawkins made the meme word in the selfish gene book.
+* Possibly a p5 sketch to go along with the discussion to demonstrate how the frequency of meme development has changed.
