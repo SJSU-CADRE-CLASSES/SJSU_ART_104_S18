@@ -1,4 +1,4 @@
-<h3>Invisible images<h3>
+<h3>Invisible images</h3>
 <hr />
 
 <p>
