@@ -77,3 +77,11 @@ Resources
 5. Bruce Sterling https://www.youtube.com/watch?v=E2Fb7ezbVtY
 6. VR reaction https://www.youtube.com/watch?v=l3V8zeSljUU
 7. VR therapy http://ict.usc.edu/prototypes/pts/
+
+3/7
+1. Trevor Paglen
+2. Technological Determinism https://en.wikipedia.org/wiki/Technological_determinism
+3. Stelarc https://www.google.com/search?q=stelarc&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvxbb-iNvZAhXJx1QKHUMlCjAQ_AUICigB&biw=1335&bih=745#imgrc=eMPvyYb51R7F7M:
+4. Oakes Brothers https://www.google.com/search?q=oakes+brothers+art&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiFq-rcktvZAhXMlVQKHdlECRoQ_AUICygC&biw=1335&bih=745#imgrc=V_nTIL_2NwMNLM:
+5. A Frame https://aframe.io/aframe-inspector/example/
+6. Marie Antonette https://www.google.com/search?q=marie+antoinette+political+cartoons&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg_-7In9vZAhUO72MKHQlADtMQ_AUICigB&biw=1335&bih=745#imgrc=zR5rCyPJQrfGaM:
