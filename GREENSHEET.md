@@ -81,7 +81,7 @@ Schedule
 | *Week 6* 02/28      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
 | *Week 7* 03/07      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: http://dismagazine.com/disillusioned-2/62143/hito-steyerl-politics-of-post-representation/** ** Group Work Beginning Research For Final |
 | Thursday 03/08      | **Andrew Presenting at IBM Almeden**
-| *Week 8* 03/14      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers |
+| *Week 8* 03/14      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: http://nickbriz.com/thoughtsonglitchart/** or **pdf version:http://nickbriz.com/thoughtsonglitchart/thoughtsonglitchartv2.0.pdf** ** Research and in class work on papers |
 | *Week 9* 03/21      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: assigned in class** ** Research and in class work on papers |
 | Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
 | *Week 10* 03/28     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
