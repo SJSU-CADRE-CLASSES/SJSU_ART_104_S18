@@ -1,0 +1,13 @@
+This video called Thoughts on Glitch Art 2.0 was an extremely interesting challenge of what a traditional essay looks like. I want to respond to both a) the content of this essay, and b) the presentation of the essay— as I feel the presentation is a lot more interesting the than the subject being discussed. 
+
+Nick Briz is a new-media artist an educator in Chicago. His essay covers the topic of what he calls Glitch Art. Glitch art is the intentional distortion of images or files. By opening a file in a program it was not intended to be opened it, making changes to it, then opening it in a program it is intended to be opened in, an artist can modify that file in unique ways that come across to the viewer as a sort of error. In the case of an image, a glitch might look like an image that failed to load properly, loaded in the wrong colors, and was somehow stretched on multiple axes. 
+
+This topic is interesting. Briz discusses the purpose behind Glitch Art in the back half of his essay. He suggests making Glitch Art apart of your everyday life, not to become a Glitch Artist, but to reclaim sme “authority without our digital spaces.” I find this cause interesting and even kind of noble. It is essentially a harmless way to make a statement than— while we realize we are living and working within the environments set forth by large corporation— that we as the users have the power to politely state that we are aware of what is being done and that we we do not completely accept it. 
+
+The other fascinating thing about this essay was how it was presented. It was quite brilliantly displayed inside of what looks like a computer desktop, and it’s actually interactive. The video of Briz talking is displayed front and center. When he mentions or quotes something a new “window” appears. The user can move the windows, resize them, or close them. As noted in the previous sentence, this is one of the first essays I have interacted with where I would call myself the “user” and not the “reader.” 
+
+Ideally all essays would be so captivating as to have the consumer of the content be able to interact with it. Briz’s interactive video essay provides a more immersive experience than a traditional typed essay, provides legitimate resources and citation, and also allows people to interact. This provides a very appropriate environment for the topic of Glitch Art, as Briz is able to literally show us an example of Glitch Art being produced, and the entire thing is happening on a computer desktop-like environment. I believe this pushes the bounds of what an essay is, and proves that an essay can be a lot more interesting than Times New Roman type and a Works Cited citation page. 
+
+
+
+
