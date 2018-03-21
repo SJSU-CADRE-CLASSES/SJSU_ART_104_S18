@@ -8,4 +8,5 @@ Two-perspective essay - one from alturistic perspective, one from climinal persp
 Two thesis statements 
 
 Research:
+
 https://theintercept.com/2015/11/19/former-drone-operators-say-they-were-horrified-by-cruelty-of-assassination-program/
