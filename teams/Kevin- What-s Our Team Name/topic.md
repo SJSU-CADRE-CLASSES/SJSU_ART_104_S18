@@ -6,3 +6,6 @@ Discuss the issue of the relatively new technology of unmanned aerial vehicles. 
 Two-perspective essay - one from alturistic perspective, one from climinal perspective 
 
 Two thesis statements 
+
+Research:
+https://theintercept.com/2015/11/19/former-drone-operators-say-they-were-horrified-by-cruelty-of-assassination-program/
