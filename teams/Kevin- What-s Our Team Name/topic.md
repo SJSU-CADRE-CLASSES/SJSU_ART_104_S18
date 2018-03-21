@@ -10,3 +10,9 @@ Two thesis statements
 Research:
 
 https://theintercept.com/2015/11/19/former-drone-operators-say-they-were-horrified-by-cruelty-of-assassination-program/
+
+https://www.airspacemag.com/daily-planet/could-video-gamers-make-better-drone-pilots-180964653/
+
+https://www.theguardian.com/world/2015/nov/18/life-as-a-drone-pilot-creech-air-force-base-nevada
+
+
