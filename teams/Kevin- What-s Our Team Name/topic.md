@@ -4,4 +4,5 @@ Discuss the issue of the relatively new technology of unmanned aerial vehicles. 
 
 
 Two-perspective essay - one from alturistic perspective, one from climinal perspective 
+
 Two thesis statements 
