@@ -1,0 +1,8 @@
+<h3>Glitch Art</h3>
+<hr />
+<p>
+I am familiar with Nick Briz art. He describes glitch art as a medium for digital media. The style is very popular that can be applied to digital artwork or photos. He talks about how pictures with png, jpg, mov, or any file with an extension can be altered. Behind each digital file is a code that generates a display on the screen, we can change that code. Instead of opening the file its appropriate program, you open it in a less conventional program. For example, you open a jpg in wordpad or a text editor instead of opening it in photoshop. 
+</p>
+<p>
+I did take a class where we had to use glitch art for a project. I did the text editor method on photos. I open photos in wordpad and cut and paste bits of code in the file in random places. This generated duplicate mirror-style images when I saved it. It also altered the color to be random in red and green hues. Like Briz said about glitch art is that it is unpredictable what the result will be and that is the fun in it. You can’t completely control the outcome or look of glitch art, so you should not be too frustrated about the lack of control. It is proven true because I could not quite get the look to how I wanted, but I was satisfied with the aesthetic. Briz talks about how a glitch is seen as a negative thing, but it can be transformed into an art. I agree on that because glitch art has become more associated with art in recent years than being compared to a computer malfunction.
+</p>
