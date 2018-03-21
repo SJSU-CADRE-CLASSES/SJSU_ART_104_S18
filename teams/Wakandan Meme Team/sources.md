@@ -4,6 +4,8 @@ Internet Memes as Contested Cultural Capital (PDF in Folder)
 ## Citations
 Nissenbaum, Asaf, and Shifman, Limor. "Internet Memes as Contested Cultural Capital: The Case of 4chan's /b/ Board." New Media & Society 19, no. 4 (2017): 483-501.  (PDF COPY IN FOLDER - BRIAN)
 
+Marcus, Olivia Rose, and Merrill Singer. "Loving Ebola-chan: Internet Memes in an Epidemic." Media, Culture & Society 39, no. 3 (2017): 341-56. (PDF in Folder)
+
 https://www.smithsonianmag.com/arts-culture/what-defines-a-meme-1904778/ (Godfrey)
 
 Gleick, James. “What Defines a Meme?” Simthsonian.com
