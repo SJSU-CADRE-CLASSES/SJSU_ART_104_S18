@@ -85,3 +85,17 @@ Resources
 4. Oakes Brothers https://www.google.com/search?q=oakes+brothers+art&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiFq-rcktvZAhXMlVQKHdlECRoQ_AUICygC&biw=1335&bih=745#imgrc=V_nTIL_2NwMNLM:
 5. A Frame https://aframe.io/aframe-inspector/example/
 6. Marie Antonette https://www.google.com/search?q=marie+antoinette+political+cartoons&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg_-7In9vZAhUO72MKHQlADtMQ_AUICigB&biw=1335&bih=745#imgrc=zR5rCyPJQrfGaM:
+
+3/20
+1. Xanadu https://en.wikipedia.org/wiki/Project_Xanadu
+2. Bitcoin https://charts.bitcoin.com/chart/price
+3. MoonCatRescue https://mooncatrescue.com/
+4. Ethereum https://www.ethereum.org/
+5. Lamassu https://www.google.com/search?q=lamassu&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjpx6elpv7ZAhVY0GMKHYj6AL4Q_AUICigB&biw=1843&bih=1013#imgrc=9TApRkbM0wRIvM:
+6. How and why to leave facebook https://www.youtube.com/watch?v=JEeR9jUsiyo
+7. IAN HATCHER https://vimeo.com/86922461
+8. Panopticon https://www.google.com/search?q=panopticon&source=lnms&tbm=isch&sa=X&ved=0ahUKEwic3oapnf7ZAhUFwmMKHROJADQQ_AUICigB&biw=1843&bih=1013&dpr=1#imgrc=yo7ywq86v5kp7M:
+9. Empathic Design https://en.wikipedia.org/wiki/Empathic_design
+10. Drone warfare https://www.youtube.com/watch?v=mAIOecjdVhw
+11. Tony Conrad Flicker https://www.youtube.com/watch?v=ZJbqnztjkbs
+12. Cyclonopedia https://www.amazon.com/Cyclonopedia-Complicity-Materials-Reza-Negarestani/dp/0980544009
