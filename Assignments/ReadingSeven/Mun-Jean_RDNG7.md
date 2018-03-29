@@ -2,7 +2,9 @@ Jean Mun
 Professor A. Blanton- ART 104
 March 14, 2018
 
+
           Reading 7: Hito Steyerl’s Conversation with Marvin Jordan, “Politics of Post-Representation” 
+	  
           
 	This reading is an interview of Hito Steyerl by Marvin Jordan about the “political economy” that exists but is
   not commonly acknowledged as what is truly occurring. They discuss from a creator’s perspective of what the consumer
