@@ -82,17 +82,17 @@ Schedule
 | *Week 7* 03/07      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: http://dismagazine.com/disillusioned-2/62143/hito-steyerl-politics-of-post-representation/** ** Group Work Beginning Research For Final |
 | Thursday 03/08      | **Andrew Presenting at IBM Almeden**
 | *Week 8* 03/14      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: http://nickbriz.com/thoughtsonglitchart/** or **pdf version:http://nickbriz.com/thoughtsonglitchart/thoughtsonglitchartv2.0.pdf** ** Research and in class work on papers |
-| *Week 9* 03/21      | **Reading 8 Due** **Abstracts and 15 References Due** ** Presentation + Discussion ** **Reading 9: assigned in class** ** Research and in class work on papers |
+| *Week 9* 03/21      | **Reading 8 Due** **Abstracts and 15 References Due** ** Presentation + Discussion ** **Reading 9: https://www.furtherfield.org/conceptual-art-cryptocurrency-and-beyond/** ** Research and in class work on papers |
 | Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
-| *Week 10* 03/28     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
-| *Week 11* 04/04     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
-| Thursday 04/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
-| *Week 12* 04/11     | Final Presentation Proposals + Discussion/Critique **Reading 12 bonus: assigned in class** |
+| *Week 10* 03/28     | **Spring Break** |
+| *Week 11* 04/04     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
+| *Week 12* 04/11     | Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: assigned in class** |
 | *Week 13* 04/18     | No Class Due to ATC (Advancement to Candidacy) ** Final Paper Requirements Posted to the git. Students will present their ideas on 11/08 to the class. |
-| *Week 14* 04/25     | Thanksgiving! No Class |
-| *Week 15* 05/02     | **Reading 11 Due** |
+| *Week 14* 04/25     | **Reading 11 Due** |
+| *Week 15* 05/02     | Workshop in class for final and SWITCH Build |
 | Date TBA            | **Hammer Graduating Group Show**
-| *Week 16* 05/09     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
+| Thursday 05/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
+| *Week 16* 05/09     | Final presentations ** Final 7-page paper due no later than Sunday, May 17th The final paper and project format will be assigned in class on Wednesday, Feb 28th and available online in PDF format |
 | *Final*  TBA      | Final Released |
 |                  |  |
 
