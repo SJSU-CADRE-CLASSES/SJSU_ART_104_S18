@@ -29,4 +29,6 @@ Tamburin, Adam. "Why a researcher is using virtual reality to fight opioids." As
 
 Westerhoff, Nikolas. "Fantasy Therapy." Scientific American Mind 18, no. 5 (2007): 71-75..
 
+VR AND EDUCATION:
 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.7955&rep=rep1&type=pdf
