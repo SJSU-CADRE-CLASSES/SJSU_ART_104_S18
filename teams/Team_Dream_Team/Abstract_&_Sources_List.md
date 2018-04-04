@@ -32,3 +32,7 @@ Westerhoff, Nikolas. "Fantasy Therapy." Scientific American Mind 18, no. 5 (2007
 VR AND EDUCATION:
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.7955&rep=rep1&type=pdf
+
+ETHICAL PROBLEMS WITH VR:
+
+https://www.vrs.org.uk/virtual-reality/ethical-issues.html 
