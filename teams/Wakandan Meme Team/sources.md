@@ -15,3 +15,7 @@ https://www.cnn.com/2014/03/11/opinion/10-classic-internet-memes/index.html (Acc
 “The History of Internet Memes.” Amazing Infographics.com.
 http://www.amazinginfographics.com/the-history-of-internet-memes/ (Accessed March 21,2018). (all 3 by Tino)
 
+https://artzealous.com/the-rise-of-memes-as-an-art-form/
+
+https://www.thoughtco.com/science-of-memes-4147457
+
