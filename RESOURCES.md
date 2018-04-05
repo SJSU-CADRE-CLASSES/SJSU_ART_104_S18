@@ -99,3 +99,14 @@ Resources
 10. Drone warfare https://www.youtube.com/watch?v=mAIOecjdVhw
 11. Tony Conrad Flicker https://www.youtube.com/watch?v=ZJbqnztjkbs
 12. Cyclonopedia https://www.amazon.com/Cyclonopedia-Complicity-Materials-Reza-Negarestani/dp/0980544009
+
+4/4
+1. warehouse http://warehouse.industries/en/
+2. damien hurst https://www.google.com/search?biw=1831&bih=1062&tbm=isch&sa=1&ei=XCPFWtytJamK0wLy6qyADQ&q=damien+hirst+bull&oq=damien+hirst+bull&gs_l=psy-ab.3...27823.30030.0.31178.5.5.0.0.0.0.65.287.5.5.0....0...1c.1.64.psy-ab..0.3.183...0j0i67k1.0.erSvGokQrHg#imgrc=DpGflWtsmWhiAM:
+3. Blue Chip https://www.google.com/search?q=blue+chip+stock+definition&oq=blue+chip+stock&aqs=chrome.2.0j69i57j0l4.6725j1j1&sourceid=chrome&ie=UTF-8
+4. Tor Browsing https://www.torproject.org/projects/torbrowser.html
+5. node.js https://nodejs.org/en/
+6. Dogecoin https://coinmarketcap.com/currencies/dogecoin/
+7. CSS Templates https://www.w3schools.com/css/css_templates.asp
+8. eXistenZ https://www.youtube.com/watch?v=HAdbdUt_h9M
+9. alantutorial https://www.youtube.com/watch?v=KH4NrUxcsYs
