@@ -86,8 +86,8 @@ Schedule
 | Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
 | *Week 10* 03/28     | **Spring Break** |
 | *Week 11* 04/04     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: https://medium.com/holochain/holochain-reinventing-applications-d2ac1e4f25ef** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
-| *Week 12* 04/11     | Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: assigned in class** |
-| *Week 13* 04/18     | No Class Due to ATC (Advancement to Candidacy) ** Final Paper Requirements Posted to the git. Students will present their ideas on 11/08 to the class. |
+| *Week 12* 04/11     | No Class Due to ATC (Advancement to Candidacy) ** Final Paper Requirements Posted to the git. Students will present their ideas on 04/25 to the class. |
+| *Week 13* 04/18     | Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: assigned in class**|
 | *Week 14* 04/25     | **Reading 11 Due** |
 | *Week 15* 05/02     | Workshop in class for final and SWITCH Build |
 | Date TBA            | **Hammer Graduating Group Show**
