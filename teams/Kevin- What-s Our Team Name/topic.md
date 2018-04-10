@@ -21,6 +21,8 @@ Pilkington, Ed. "Life as a Drone Operator: 'Ever Step on Ants and Never Give It 
 
 Shultz, D. (2015). Game of drones. Science, 347(6221), 497.
 
+Byrne, E.F. J Bus Ethics (2018) 147: 81. https://doi-org.libaccess.sjlibrary.org/10.1007/s10551-015-2950-4
+
 Khalili, Laleh. "Fighting Over Drones." Middle East Report, no. 264 (2012): 18-21. http://www.jstor.org/stable/41702457.
 
 Kreps, Sarah, and Micah Zenko. "The Next Drone Wars: Preparing for Proliferation." Foreign Affairs 93, no. 2 (2014): 68-79. http://www.jstor.org/stable/24483585.
