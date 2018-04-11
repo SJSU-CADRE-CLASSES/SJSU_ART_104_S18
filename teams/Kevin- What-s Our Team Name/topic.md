@@ -8,11 +8,7 @@ While the concept of drones may seem newfangled to Americans, their uses have be
 
 Abstract 2: Nation Annihilation
 
-
-
-Abstract Concept 2
-
-      The Purpose of this paper is to narrow down the many uses of operating, owning, and using drones. As technology advances, new and innovative ways begin to surface. Drones have been on the rise for years now making their way from the private sectors to being commercially available to the public.  We will look at three aspects of the usage of drones in our society. First, from the controller’s perspective the once operating the drones; second from the small business sectors, agriculture and marine. And third, the dangers when technology is used for warfare. By looking further into these three aspects we expect to widen our understanding on the inner positive and negative workings of everyday use of drones in our society. New innovative technology such as drones are made because there is a need for them and with that need comes job creations, the operator; easier ways to accomplish certain tasks such as fertilizing of fields and testing of wild life; and the negative implications it can cause.md
+The Purpose of this paper is to narrow down the many uses of operating, owning, and using drones. As technology advances, new and innovative ways begin to surface. Drones have been on the rise for years now making their way from the private sectors to being commercially available to the public.  We will look at three aspects of the usage of drones in our society. First, from the controller’s perspective the once operating the drones; second from the small business sectors, agriculture and marine. And third, the dangers when technology is used for warfare. By looking further into these three aspects we expect to widen our understanding on the inner positive and negative workings of everyday use of drones in our society. New innovative technology such as drones are made because there is a need for them and with that need comes job creations, the operator; easier ways to accomplish certain tasks such as fertilizing of fields and testing of wild life; and the negative implications it can cause
 
 
 Works Cited
