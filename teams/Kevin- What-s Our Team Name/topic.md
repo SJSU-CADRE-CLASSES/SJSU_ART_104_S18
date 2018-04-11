@@ -1,12 +1,12 @@
-Drones
+Drones: A fictional look at the realities of UAVs
 
-Discuss the issue of the relatively new technology of unmanned aerial vehicles. Looing into the perception of drones in Western societies vs. other parts of the world. Drones in our society are viewed as tools to complete "dirty jobs"-- they save lives by taking humans out of dangerous situations, elminate perpetrators, create art and entertainment, and promote human wellbeing. Silicon Valley nobily desires to provide a network of drones providing internet in developing nations. People on the other side of the control panel are victims of violent war tactics. Are drones helpful or harmful for society? 
+Abstract 1: Cetacean Rehabilitation
+
+While the concept of drones may seem newfangled to Americans, their uses have become more realized in recent years. From package deliveries to news traffic coverage, remotely controlled drones are allowing us to vicariously traverse the skies— and the seas. Skip, a humpback whale extending 44 feet living only miles off the shores of Martha’s Vineyard, was inspected and led to safety by a series of six-propeller hexacopters collecting data over the Atlantic. Cetacean rehabilitation is being aided by artificial intelligence algorithms poetically and proactively absolving the seas of the marine terrorism— of invasive toxins massacring our world's most complex ecosystem. Our new reality—a world wherein we will soon gaze up to the heavens and see a structure drones bustling about—will ameliorate the way we do commerce, abolish poverty, and advance our society into a globally aware future. 
 
 
+Abstract 2: 
 
-Abstract 1: Drones give whales a breathalyzer test
-
-Abstract 2: The death of precision
 
 
 
