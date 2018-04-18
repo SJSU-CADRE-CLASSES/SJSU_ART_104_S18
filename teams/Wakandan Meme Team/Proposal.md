@@ -37,8 +37,6 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 	<li> How can we explore the legitimacy of memes in today's modern society</li>
 </ul>
 
-<br>
-
 <h4>Development of Memes</h4>
 <ul>
 	<li>First recorded existence of Memes(Kilroy was Here)/4chan/Reddit</li>
@@ -47,7 +45,6 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 	<li> How does the current generation of memes compare to memes developed in the 1990s</li>
 </ul>
 
-<br>
 
 <h4>Commercial Aspect</h4>
 <ul>
