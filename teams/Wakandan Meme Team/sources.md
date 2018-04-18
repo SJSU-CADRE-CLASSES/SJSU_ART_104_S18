@@ -25,3 +25,5 @@ https://www.cnn.com/2014/03/11/opinion/10-classic-internet-memes/index.html (Acc
 
 “The History of Internet Memes.” Amazing Infographics.com.
 http://www.amazinginfographics.com/the-history-of-internet-memes/ (Accessed March 21,2018). (all 3 by Tino)
+
+Goriunova, O. (n.d.). New media idiocy. Convergence, 19(2), 223-235.
