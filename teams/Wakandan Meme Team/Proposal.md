@@ -4,7 +4,6 @@
 
 <h3>Main Topic</h3>
 <p>The development of memes in history and what their equivalents were before memes were a thing. Why are they prevalent in the united states and why are corporations trying so hard to use them?</p>
-<br>
 <h3>Argument</h3>
 <p>
 Is meme theory some psuedoscientific bs or is it a legitamate form of cultural expression?
@@ -16,11 +15,9 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 	<li>Meme generator</li>
 </ul>
 
-<br>
 
 <h3>Sources</h3>
 <a href="SJSU_ART_104_S18/teams/Wakandan Meme Team/sources.md"> Our Sources </a>
-<br>
 
 <h3>Abstract</h3>
 <p>In this paper, the legitimacy and relevance of “meme” culture today will be put into question with regards to how it has become a universal form of cultural expression analogous to other forms in the context of art. With this in mind, this paper will argue in favor of “memes” as a legitimate form of cultural expression contrary to the skepticism that exists due to their generally crude nature. Furthermore, this paper will examine “memes” in their earliest forms prior to the digital age and how the name came to be in Richard Dawkins “The Selfish Gene”. Likewise, the history of “memes” will clarify the reason for their existence from an anthropological perspective. In addition, it is also very important to note the trends of these “memes” to emphasize how they reflect the state of our society on a political, social, and aesthetic level.
