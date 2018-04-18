@@ -1,4 +1,4 @@
-<h3>Proposal</h3>
+<h1>Proposal</h1>
 <hr />
 <br>
 
@@ -11,6 +11,13 @@
 <p>
 Is meme theory some psuedoscientific bs or is it a legitamate form of cultural expression?
 </p>
+
+<h3>UI/Aesthetic</h3>
+<ul>
+	<li>p5 sketch of meme timeline and popularity similar to a stock market chart<li>
+	<li>Meme generator</li>
+</ul>
+<br>
 
 <h3>Sources</h3>
 <a href="SJSU_ART_104_S18/teams/Wakandan Meme Team/sources.md"> Our Sources </a>
@@ -26,7 +33,7 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 <p>**Feel free to change or add into it**</p>
 <hr />
 
-<h2>Intro/Abstract</h2>
+<h4>Intro/Abstract</h4>
 <ul>
 	<li>Definition of memes/abstract to our paper</li>
 	<li>Meme theory of Richard Dawkins</li>
@@ -36,7 +43,7 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 
 <br>
 
-<h2>Development of Memes</h2>
+<h4>Development of Memes</h4>
 <ul>
 	<li>First recorded existence of Memes(Kilroy was Here)/4chan/Reddit</li>
 	<li>Anatomy of a meme, what it takes for a meme to be viral</li>
@@ -46,7 +53,7 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 
 <br>
 
-<h2>Commercial Aspect</h2>
+<h4>Commercial Aspect</h4>
 <ul>
 	<li>Memes have commercial value</li>
 	<li>How coporate companies utilize memes in their social media marketing</li>
@@ -55,7 +62,7 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 </ul>
 
 
-<h2>Effective in Politics</h2>
+<h4>Effective in Politics</h4>
 <ul>
 	<li>Effects of memes in the spread of world news</li>
 	<li>Putin the Gay clown/memes in other countries</li>
@@ -64,7 +71,7 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 </ul>
 
 
-<h2> Form of Communication </h2>
+<h4> Form of Communication </h4>
 <ul>
 	<li>Memes becoming a relavant form of language on the internet</li>
 	<li>Its spread covering current news/events. (the Zucc facebook leak memes)</li>
@@ -72,7 +79,7 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 	<li> Are memes ingrained into our society and how can it evolve further</li>
 </ul>
 
-<h2> Conclusion </h2>
+<h4> Conclusion </h4>
 <ul>
 	<li>Summarizing points about how memes are a form of internet culture and expression. How does it effect language and attitude of future generations</li>
 </ul>
