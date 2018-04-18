@@ -1,0 +1,11 @@
+<h3>Thoughts on Halochain</h3>
+
+<p>
+Holochain is a system that is used to write peer-to-peer applications. I thought it was related to blockchain technology from its name, but it is different. I wish the author went more in depth on the difference between blockchain and holochain because it was confusing when they bring up that it is not like Ethereum, more like decentralized Ruby on Rails. For someone who is not well-versed in current technologies, it is jargon. From what I gather, blockchain is a ledger can store data. Holochain is different because it can be used by multiple users to store data. I had to watch a video on it to understand how it works.
+</p>
+<p>
+Every user’s computer is different from each other because of what data is stored in that space. Holochain allows everyone to view each other’s computer directly without changing anything in the space. The information is stored on multiple machines and can be retrieved when requested. This reminded me of the show Silicon Valley where they talked about a decentralized internet concept that was similar to Holochain. Holochain sounds a less secure concept compared to the idea presented in the TV show. 
+</p>
+<p>
+The nodes of Holochain talk to each other so there is no centralized protection when one node becomes foul. Holochain even responds to that problem that bad nodes’ only consequences is that they will be known to have bad reputation. The bad nodes get a warning and other nodes are alerted, but that’s it. So if you receive a corrupted transaction, they do not have a way to correct or fix it. The nodes just gossip to each other as the solution and there is no public record.  However, I think it is a bad idea if one of the machines fail and the data becomes lost or corrupted. It is a risky technology and there is no incentive where people are willing spread their own personal data to other user’s machines. Not everyone wants to volunteer to host holochain data. It is a direct and faster route to exchange data to prevent companies from holding our data and uses less bandwidth. It is a good idea, but would not play out well if people can be dishonest or companies can disguise themselves as people to get around it. I do not understand how they can fight against fraud in this system. This sounds like decentralized communist technology to me. 
+</p>
