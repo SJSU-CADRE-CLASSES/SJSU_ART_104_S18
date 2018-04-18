@@ -1,4 +1,4 @@
-Drones: A fictional look at the realities of UAVs mjhf
+Drones: A fictional look at the realities of UAVs 
 
 
 Abstract 1: Cetacean Rehabilitation
