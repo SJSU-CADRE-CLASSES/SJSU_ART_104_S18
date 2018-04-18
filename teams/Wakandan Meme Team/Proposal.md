@@ -14,9 +14,10 @@ Is meme theory some psuedoscientific bs or is it a legitamate form of cultural e
 
 <h3>UI/Aesthetic</h3>
 <ul>
-	<li>p5 sketch of meme timeline and popularity similar to a stock market chart<li>
+	<li>p5 sketch of meme timeline and popularity similar to a stock market chart</li>
 	<li>Meme generator</li>
 </ul>
+
 <br>
 
 <h3>Sources</h3>
