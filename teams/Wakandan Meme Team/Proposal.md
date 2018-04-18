@@ -4,9 +4,7 @@
 
 <h3>Main Topic</h3>
 <p>The development of memes in history and what their equivalents were before memes were a thing. Why are they prevalent in the united states and why are corporations trying so hard to use them?</p>
-
 <br>
-
 <h3>Argument</h3>
 <p>
 Is meme theory some psuedoscientific bs or is it a legitamate form of cultural expression?
