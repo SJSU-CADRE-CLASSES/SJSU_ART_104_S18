@@ -9,6 +9,9 @@ https://www.thoughtco.com/science-of-memes-4147457
 
 http://knowyourmeme.com/
 
+https://artprintexpress.wordpress.com/2013/01/08/why-is-art-important-to-our-culture/
+https://www.planning.org/research/arts/briefingpapers/overview.htm
+
 
 ## Citations
 Nissenbaum, Asaf, and Shifman, Limor. "Internet Memes as Contested Cultural Capital: The Case of 4chan's /b/ Board." New Media & Society 19, no. 4 (2017): 483-501.  (PDF COPY IN FOLDER - BRIAN)
@@ -26,4 +29,8 @@ https://www.cnn.com/2014/03/11/opinion/10-classic-internet-memes/index.html (Acc
 “The History of Internet Memes.” Amazing Infographics.com.
 http://www.amazinginfographics.com/the-history-of-internet-memes/ (Accessed March 21,2018). (all 3 by Tino)
 
-Goriunova, O. (n.d.). New media idiocy. Convergence, 19(2), 223-235.
+"The Role of Arts and Culture in a Planning Practice." Planning.org.
+https://www.planning.org/research/arts/briefingpapers/overview.htm (Accessed April 18, 2018).
+
+"Why is Art Important to our Culture?" Art Print Express.com.
+https://artprintexpress.wordpress.com/2013/01/08/why-is-art-important-to-our-culture/ (Accessed April 18, 2018).
