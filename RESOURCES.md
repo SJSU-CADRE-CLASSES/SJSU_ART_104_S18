@@ -110,3 +110,24 @@ Resources
 7. CSS Templates https://www.w3schools.com/css/css_templates.asp
 8. eXistenZ https://www.youtube.com/watch?v=HAdbdUt_h9M
 9. alantutorial https://www.youtube.com/watch?v=KH4NrUxcsYs
+
+4/11
+1. ARCore with Unity https://developers.google.com/ar/develop/unity/quickstart
+2. Hot and Cool Media https://mediawiki.middlebury.edu/wiki/MIDDMedia/Hot_versus_cool_media
+3. Wafaa Bilal http://artthreat.net/2007/05/wafaa-bilal-shoot-iraqi/
+4. Open Frameworks for Andriod http://openframeworks.cc/setup/android-studio/
+5. Angular JS https://angular.io/
+6. Social Print https://www.socialprintstudio.com/
+7. Eleven Play https://www.youtube.com/watch?v=mtXmhMAlG1g
+8. SFPC http://sfpc.io/
+
+4/18
+1. Emma Gonzalez Speech https://www.youtube.com/watch?v=hDEc4ImIVHk
+2. Anthropocene https://en.wikipedia.org/wiki/Anthropocene
+3. hacker news https://news.ycombinator.com/
+4. Project Xanadu https://en.wikipedia.org/wiki/Project_Xanadu
+5. Archival websites and web rot https://web.archive.org/web/20020911075717/http://www.dictionary.com:80/
+6. Cyclonopedia https://www.amazon.com/Cyclonopedia-Complicity-Materials-Reza-Negarestani/dp/0980544009
+7. Rhizome http://rhizome.org/
+8. Clouds over Sidra https://www.with.in/watch/clouds-over-sidra
+9. 360 Syria http://www.360syria.com/photosphere
