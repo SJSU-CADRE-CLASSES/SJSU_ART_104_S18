@@ -12,6 +12,7 @@ http://knowyourmeme.com/
 https://artprintexpress.wordpress.com/2013/01/08/why-is-art-important-to-our-culture/
 https://www.planning.org/research/arts/briefingpapers/overview.htm
 
+http://www.sorites.org/Issue_15/alvarez.htm
 
 ## Citations
 Nissenbaum, Asaf, and Shifman, Limor. "Internet Memes as Contested Cultural Capital: The Case of 4chan's /b/ Board." New Media & Society 19, no. 4 (2017): 483-501.  (PDF COPY IN FOLDER - BRIAN)
@@ -35,3 +36,5 @@ https://namp.americansforthearts.org/sites/default/files/The%20Role%20of%20the%2
 
 "Why is Art Important to our Culture?" Art Print Express.com.
 https://artprintexpress.wordpress.com/2013/01/08/why-is-art-important-to-our-culture/ (Accessed April 18, 2018).
+
+Álvarez, Asunción. “Memetics: An Evolutionary Theory of Cultural Transmission .” Memetics: An Evolutionary Theory of Cultural Transmission, 31 Dec. 2004, www.sorites.org/Issue_15/alvarez.htm
