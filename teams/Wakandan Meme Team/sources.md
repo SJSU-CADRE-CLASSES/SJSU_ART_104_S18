@@ -38,3 +38,5 @@ https://namp.americansforthearts.org/sites/default/files/The%20Role%20of%20the%2
 https://artprintexpress.wordpress.com/2013/01/08/why-is-art-important-to-our-culture/ (Accessed April 18, 2018).
 
 Álvarez, Asunción. “Memetics: An Evolutionary Theory of Cultural Transmission .” Memetics: An Evolutionary Theory of Cultural Transmission, 31 Dec. 2004, www.sorites.org/Issue_15/alvarez.htm
+
+Jordan, M. (2014, February 04). What's in a Meme? Retrieved from https://www.richarddawkins.net/2014/02/whats-in-a-meme/ 
