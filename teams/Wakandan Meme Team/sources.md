@@ -44,3 +44,7 @@ https://artprintexpress.wordpress.com/2013/01/08/why-is-art-important-to-our-cul
 Jordan, M. (2014, February 04). What's in a Meme? Retrieved from https://www.richarddawkins.net/2014/02/whats-in-a-meme/ 
 
 Drakett, J., Rickett, B., Day, K., & Milnes, K. (2018). Old jokes, new media – Online sexism and constructions of gender in Internet memes. Feminism & Psychology, 28(1), 109-127.
+
+Rafman, J. (n.d.). Press Clippings. Retrieved from http://jonrafman.com/Jon_Rafman _ Press_Clippings.pdf
+
+Williams, Oliver, Aumer, & Meyers. (2016). Racial microaggressions and perceptions of Internet memes. Computers in Human Behavior, 63(C), 424-432.
