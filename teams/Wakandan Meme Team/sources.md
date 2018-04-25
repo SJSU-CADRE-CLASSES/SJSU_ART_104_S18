@@ -26,6 +26,8 @@ https://www.smithsonianmag.com/arts-culture/what-defines-a-meme-1904778/ (Access
 
 Huh, Ben. “10 Classic Memes that Owned the Internet.”  CNN.com 
 https://www.cnn.com/2014/03/11/opinion/10-classic-internet-memes/index.html (Accessed March 21, 2018).
+"Definition of Meme" Merriam Webster.com
+https://www.merriam-webster.com/dictionary/meme (Accessed April 25, 2018).
 
 “The History of Internet Memes.” Amazing Infographics.com.
 http://www.amazinginfographics.com/the-history-of-internet-memes/ (Accessed March 21,2018). (all 3 by Tino)
