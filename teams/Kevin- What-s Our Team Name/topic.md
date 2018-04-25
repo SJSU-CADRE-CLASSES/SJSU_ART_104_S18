@@ -5,6 +5,35 @@ Abstract 1: Cetacean Rehabilitation
 
 While the concept of drones may seem newfangled to Americans, their uses have become more realized in recent years. From package deliveries to news traffic coverage, remotely controlled drones are allowing us to vicariously traverse the skies— and the seas. Skip, a humpback whale extending 44 feet living only miles off the shores of Martha’s Vineyard, was inspected and led to safety by a series of six-propeller hexacopters collecting data over the Atlantic. Cetacean rehabilitation is being aided by artificial intelligence algorithms poetically and proactively absolving the seas of marine terrorism— of invasive toxins massacring our world's most complex ecosystem. Our new reality—a world wherein we will soon gaze up to the heavens and see a structure of drones bustling about—will ameliorate the way we do commerce, abolish poverty, and advance our society into a globally aware future. 
 
+Outline 
+Intro	
+Discuss what a UAV is- unmanned aerial vehicle
+When/why they were introduced
+Basic usages
+Videography
+Agriculture
+Warfare
+Delivery
+Networking
+Search/rescue 
+Introduce drones as used in whale protection— what is the problem they are solving?
+Thesis: Our new reality—a world wherein we will soon gaze up to the heavens and see a structure of drones bustling about—will ameliorate the way we do commerce, abolish poverty, and advance our society into a globally aware future.
+Story of Skip
+Introduce the whale skip
+Where is Skip located?
+What problem does Skip have? 
+Difficulties and dangers of assessing whales' health
+Measure bacteria and fungi in the whale's "breath"
+Like Jonah, the drone is essentially consumed by the whale, treating the mouth like a dentist 
+Conclusion/positive implications of drones
+Drones will change our world for the better. 
+Lives will be spared
+Delivery and internet networks will be expanded
+Search and rescue will be aided
+UAVs will soon become a regular part of our daily lives. As our society further advances, and the possibilities of AI and DAPS becomes realized, mobile networks and vehicles will become the new ozone layer
+Drones will save wildlife, like Skip
+
+
 
 Abstract 2: Nation Annihilation
 
