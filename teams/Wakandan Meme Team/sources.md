@@ -30,7 +30,8 @@ https://www.cnn.com/2014/03/11/opinion/10-classic-internet-memes/index.html (Acc
 http://www.amazinginfographics.com/the-history-of-internet-memes/ (Accessed March 21,2018). (all 3 by Tino)
 
 "The Role of Arts and Culture in a Planning Practice." Planning.org.
-https://www.planning.org/research/arts/briefingpapers/overview.htm (Accessed April 18, 2018).
+https://www.planning.org/research/arts/briefingpapers/overview.htm (Accessed April 18, 2018).(link dead use this pdf link below)
+https://namp.americansforthearts.org/sites/default/files/The%20Role%20of%20the%20Arts%20and%20Culture%20in%20Planning%20Practice_0.pdf
 
 "Why is Art Important to our Culture?" Art Print Express.com.
 https://artprintexpress.wordpress.com/2013/01/08/why-is-art-important-to-our-culture/ (Accessed April 18, 2018).
