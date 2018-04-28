@@ -1,4 +1,4 @@
-I’m Awake,
+ cloudI’m Awake,
 I keep my eyes closed.
 Someone is holding my left arm,
 I’m awake.
@@ -31,7 +31,7 @@ I smile at the sight of them, wonderful and beautiful.
 I finish tending to the livestock. 
 We meet half way, we embrace, she mentions that she heard some neighbors talking;
 I look up, 
-I see dust coming our way.
+I see dust clouds coming our way.
 I embrace them harder.
 …Tomorrow we will eat good again.
 
