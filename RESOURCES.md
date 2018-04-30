@@ -131,3 +131,13 @@ Resources
 7. Rhizome http://rhizome.org/
 8. Clouds over Sidra https://www.with.in/watch/clouds-over-sidra
 9. 360 Syria http://www.360syria.com/photosphere
+
+4/25
+1. Disney Multiplane camera https://www.youtube.com/watch?v=YdHTlUGN1zw
+2. cybergoth dance https://www.youtube.com/watch?v=gPbVRpRgHso
+3. technoviking https://www.youtube.com/watch?v=UjCdB5p2v0Y
+4. blank room soup https://www.youtube.com/watch?v=6VMRAGxjOoA
+5. mainsqueeze https://vimeo.com/100324610
+6. rhizome.org http://rhizome.org/
+7. feltzine https://news.feltzine.us/
+8. brad troemel http://main.bradtroemel.com/
