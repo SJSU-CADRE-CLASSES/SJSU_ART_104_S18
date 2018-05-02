@@ -25,3 +25,5 @@ https://sjsu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_m
 
 Dunn, D. (2013). Drones: Disembodied aerial warfare and the unarticulated threat. International Affairs, 89(5), 1237-1246.
 https://sjsu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_wj10.1111/1468-2346.12069&context=PC&vid=01CALS_SJO&search_scope=EVERYTHING&tab=everything&lang=en_US
+
+https://www.cnn.com/2015/08/04/us/whale-hexacopter-study/index.html
