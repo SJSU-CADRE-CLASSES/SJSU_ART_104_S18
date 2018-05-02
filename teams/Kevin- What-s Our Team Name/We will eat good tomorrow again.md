@@ -21,12 +21,12 @@ Someone on the battlefield has grown to fear drones over these years as they sho
  
  
  
- cloudI’m Awake,
+I’m Awake,
 I keep my eyes closed.
 Someone is holding my left arm,
 I’m awake.
 I don’t want to open my eyes.
-I look to my left, I see my wife holding my son and my son holding my arms.
+I look to my left, I see my wife holding my son and my son holding my arm.
 The sun is rising, I can see it through the holes on my walls/
 Last night we ate rice with some herbs, we’ve been saving for a special occasion and some bread,
 We ate good last night.
@@ -56,6 +56,6 @@ We meet half way, we embrace, she mentions that she heard some neighbors talking
 I look up, 
 I see dust clouds coming our way.
 I embrace them harder.
-…Tomorrow we will eat good again.
+...Tomorrow we will eat good again...
 
 By: Damian & Diego
