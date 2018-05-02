@@ -16,15 +16,7 @@ Someone on the battlefield has grown to fear drones over these years as they sho
 
 
 
-
-
-
-
-
- 
- 
- 
- 
+---------------------
  
  
  
