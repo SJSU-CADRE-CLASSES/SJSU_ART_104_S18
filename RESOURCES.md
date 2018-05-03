@@ -141,3 +141,12 @@ Resources
 6. rhizome.org http://rhizome.org/
 7. feltzine https://news.feltzine.us/
 8. brad troemel http://main.bradtroemel.com/
+
+5/2
+1. Big DawsTV https://www.youtube.com/user/BigDawsTv
+2. Big Dog https://www.youtube.com/watch?v=fUyU3lKzoio
+3. Shirley Curry https://www.youtube.com/watch?v=zbxoXpLAuq0
+4. Marie antoinette https://www.google.com/search?q=marie+antoinette+pamphlets&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjg0vGf9-faAhVR4VQKHYVeAAUQsAQILg&biw=1441&bih=626
+5. Ann Hirsch https://www.youtube.com/watch?v=k7K37YbhpTA
+6. Install a-frame https://aframe.io/docs/0.8.0/introduction/installation.html
+7. a-frame school https://aframe.io/aframe-school/#/6
