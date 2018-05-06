@@ -93,7 +93,7 @@ Schedule
 | Date TBA            | **Hammer Graduating Group Show**
 | Thursday 05/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Week 16* 05/09     | Final presentations ** Final 7-page paper due no later than Sunday, May 17th The final paper and project format will be assigned in class on Wednesday, Feb 28th and available online in PDF format |
-| *Final*  TBA      | Final Released |
+| *Final*             | Final Presentations 5/16 9:45  |
 |                  |  |
 
 **University Policies**
