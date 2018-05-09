@@ -13,20 +13,19 @@ As I leave the explosions from hometown I see bombs drop from drones a mile away
 Someone on the battlefield has grown to fear drones over these years as they show no mercy to us folks. The human is never there as it eliminates as though we matter less in life than their families back home. I understand that specific targets are assigned to the target, but that does not exclude the fact that malfunctions can happen. A machine is still a machine which limits it ti human knowledge and programming. Mishaps that have murdered many in my hometown are a result too much trust in drones as they can only accomplish specific tasks. I only have one hope, is that we bring back control among these droid infested environments.
 
 
+ Futuristic scenarios seem fare fetched, where technology and humans are in constant battle for survival. Our understanding of technology and how it is evolving has become the forefront of our own innovation and interest. As humans we push ourselves to be the first to innovate the latest software, the latest technology that will bring about change in our daily lives. Since the early 1920’s we have been excited of what the future holds. Pushing our imagination 5o to 100 years into the future to try and in-vision what the day to day life will look like from kitchen appliances that prepare meals ready to eat after everyone arrives from work and school to self-piloted vehicles transporting people and things to their desired destination. Our imaginations have no boundaries when we look into the future.
+ We are at the beginning stages of self-driving technology. There still needs to be someone on the other end giving orders, observing and inputting data. A controller, an actual person making rational decisions on where to go, how to maneuver, and what is right and wrong, a person with common sense. Those persons need to have intensive training and understanding of the work that is required of them, an understanding of the technology they are operating. And this will still be the case for many self-operating devices. 
+ Drones on the other hand is a subject that has progressed rapidly over the past few years. Recreational hobbyist have adopted drones in their daily lives including then in their home entertainment, their work, to being an independent contractor and offering classes, or the most popular drone competitions. Drones are a great entertainment from the cheapest to the most expensive. They are changing our lives in one form or another. Technology has made this possible. New advances are making drones more self-aware of stability, object control, and detecting incoming objects. It is amazing to see a drone balance a cup of water without spilling a drop or the ability to balance a ball on a rod and not drop. At these stages drones are exciting and the new frontier of a future only we can imagen.
+ The future as we can imagine it, is exciting, but very worrisome. There is a dark part of technology that we tend to ignore or we look the other way.  That dark part of technology, which we have minimal control in terms of creating it, is beyond our imagination.  As technology progresses, so does danger of technology being used in the distraction of humanity and this world. Drones with the right algorithm, programing and with a few modifications can be given instructions to target vehicles, buildings, individuals or multiple people. Drones can be a way to eradicate the competition of an area occupied by opponents. Drones can be equipped with individual weapons or explosives. With a multitude of drones working as one single unit and equipped with unforgivable weapons cities can be destroyed in a matter of minutes, survivors targeted in the aftermath. Destruction without empathy. 
 
 
 
----------------------
- 
- 
- 
- 
 I’m Awake,
 I keep my eyes closed.
 Someone is holding my left arm,
 I’m awake.
 I don’t want to open my eyes.
-I look to my left, I see my wife holding my son and my son holding my arm.
+I look to my left, I see my wife holding my son and my son holding my arms.
 The sun is rising, I can see it through the holes on my walls/
 Last night we ate rice with some herbs, we’ve been saving for a special occasion and some bread,
 We ate good last night.
@@ -54,8 +53,9 @@ I smile at the sight of them, wonderful and beautiful.
 I finish tending to the livestock. 
 We meet half way, we embrace, she mentions that she heard some neighbors talking;
 I look up, 
-I see dust clouds coming our way.
+I see dust coming our way.
 I embrace them harder.
-...Tomorrow we will eat good again...
+…Tomorrow we will eat good again.
+
 
 By: Damian & Diego
