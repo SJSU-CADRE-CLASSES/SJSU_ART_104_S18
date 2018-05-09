@@ -14,6 +14,9 @@ As I leave the explosions from hometown I see bombs drop from drones a mile away
 
 Someone on the battlefield has grown to fear drones over these years as they show no mercy to us folks. The human is never there as it eliminates as though we matter less in life than their families back home. I understand that specific targets are assigned to the target, but that does not exclude the fact that malfunctions can happen. A machine is still a machine which limits it ti human knowledge and programming. Mishaps that have murdered many in my hometown are a result too much trust in drones as they can only accomplish specific tasks. I only have one hope, is that we bring back control among these droid infested environments.
 
+===============================================
+
+over view
 
  Futuristic scenarios seem fare fetched, where technology and humans are in constant battle for survival. Our understanding of technology and how it is evolving has become the forefront of our own innovation and interest. As humans we push ourselves to be the first to innovate the latest software, the latest technology that will bring about change in our daily lives. Since the early 1920’s we have been excited of what the future holds. Pushing our imagination 5o to 100 years into the future to try and in-vision what the day to day life will look like from kitchen appliances that prepare meals ready to eat after everyone arrives from work and school to self-piloted vehicles transporting people and things to their desired destination. Our imaginations have no boundaries when we look into the future.
  
@@ -24,6 +27,7 @@ Someone on the battlefield has grown to fear drones over these years as they sho
  The future as we can imagine it, is exciting, but very worrisome. There is a dark part of technology that we tend to ignore or we look the other way.  That dark part of technology, which we have minimal control in terms of creating it, is beyond our imagination.  As technology progresses, so does danger of technology being used in the distraction of humanity and this world. Drones with the right algorithm, programing and with a few modifications can be given instructions to target vehicles, buildings, individuals or multiple people. Drones can be a way to eradicate the competition of an area occupied by opponents. Drones can be equipped with individual weapons or explosives. With a multitude of drones working as one single unit and equipped with unforgivable weapons cities can be destroyed in a matter of minutes, survivors targeted in the aftermath. Destruction without empathy. 
 
 
+1 st person
 
 I’m Awake,
 I keep my eyes closed.
