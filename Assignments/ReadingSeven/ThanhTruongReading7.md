@@ -1,4 +1,4 @@
-	In the article “Politics of Post-Representation” by Marvin Jordan where he conducts an interview with Hito Steyerl on the issues of 
+In the article “Politics of Post-Representation” by Marvin Jordan where he conducts an interview with Hito Steyerl on the issues of 
   representation in today’s digital age. Steyerl start off by introducing the idea of photography on small cellular device. According to 
   Steyerl, phone’s camera lenses are often crappy and produce pictures with tons of noises. The real secrets lies within the programming 
   of the phone. The phone is programmed to pick out the real picture from all the noise or remove the noise from the picture. To do this 
