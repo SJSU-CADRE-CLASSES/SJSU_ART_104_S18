@@ -22,7 +22,7 @@ Imagine a net of drones existing overhead the 70% of earth concealed with water.
 Picture lying in a park and gazing to the heavens to watch a 4D movie. Artificial neural networks will allow UAVs to meet, and eventually exceed human intellect while adding a 3rd person view on life. Integrated artificial superintelligence. Drone networks high above our city streets will forever ameliorate the way we do commerce, abolish poverty, and advance our society into a globally dominant future. 
 
 
-
+---------------------------------------------
 
 
 Nation Annihilation
@@ -47,37 +47,69 @@ It is only a matter of time before soldiers and government aid is no longer pres
 “Tomorrow we will eat well again”
 
 I’m Awake,
+
 I keep my eyes closed.
+
 Someone is holding my left arm,
+
 I’m awake.
+
 I don’t want to open my eyes.
+
 I look to my left. I see my wife holding my son and my son holding my arm.
+
 The sun is rising. I can see it through the crack in the wall.
+
 Last night we ate bread and rice with herbs. We’ve been saving this meal for a special occasion.
+
 We ate well last night.
+
 My son, stuffed with food, could hardly walk. It's been a while since we ate so well.
+
 My wife and I laughed. For a brief moment we felt safe. Free.
+
 I walk outside.
+
 I close my eyes.
+
 Our neighbors are moving away.
+
 Far away to other cities and countries with family.
+
 This is our home. What little we have is our home; my family.
+
 There is no one else.
+
 Last week at the market I bought some bread for the week.
+
 On my way home, I stopped to help a neighbor pack his things to move. 
+
 In return he gave me herbs and rice. He is moving south to safer territory.  
+
 He overheard the foreign military using new drones, destroying cities and villages with no human control.
+
 My town is small; only getting smaller. I know everyone.
+
 They are some of the greatest people.
+
 I smell the burning of wood coming from my home. 
+
 It’s already morning and my wife is preparing breakfast.
+
 I see my son standing at the doorway looking at me. He is only six. 
+
 My wife joins him. 
+
 I smile at the sight of them— they are wonderful and beautiful.
+
 The only reason to keep going. 
+
 I walk over to them and feel their warmth.
+
 I see dust coming our way.
+
 I embrace them harder.
+
 Tomorrow we will well again.
 
 
