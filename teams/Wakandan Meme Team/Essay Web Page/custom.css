@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color:#000;
+    color:#FFF;
+    border-radius:0;
+}
+
+.cover_image {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(front.png) no-repeat center center fixed #000;
+	background-size:cover;
+}
+
+a {
+    color:#29AEE3;
+}
+
+a:hover {
+    color:#29AEE3;
+}
