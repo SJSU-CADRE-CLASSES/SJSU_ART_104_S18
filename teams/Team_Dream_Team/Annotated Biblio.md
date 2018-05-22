@@ -1,3 +1,5 @@
+Queena Situ
+
 1) Diemer, Julia, Andreas Mühlberger, Paul Pauli, and Peter Zwanzger. 2014. "Virtual reality exposure in anxiety disorders: Impact on   psychophysiological reactivity." World Journal Of Biological Psychiatry 15, no. 6: 427-442. Academic Search Complete, EBSCOhost (accessed April 25, 2018).
 
   There were a couple studies and experiments done involving participants with phobias and a control group. Both groups were subjected to  various simulations that induced anxiety and fear among the phobic participants. Heart rate and skin conductance levels were recorded as  psychophysiological responses to the VR. Over a period of a couple weeks of this therapy and stimulation, HR and SCL were shown to reduce  over time, meaning the therapy was working. This idea of multiple sessions of repeated stimulation was called “habituation”. In both the   control and phobic groups, anxiety was prevalent, but the biggest improvements shown were from the phobic participants.
