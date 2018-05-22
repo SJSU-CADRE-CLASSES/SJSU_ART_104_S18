@@ -1,0 +1,38 @@
+body {
+
+/*color:#0f0;*/
+background-color: darkslategray;
+
+}
+
+a:hover{
+  color:white;
+  /*text-decoration: underline;*/
+}
+.nav_pad{
+  padding-top:40px;
+}
+.section{
+  padding-bottom:40px;
+}
+ul.disc{
+  list-style: disc;
+  margin-left: 15px
+}
+
+
+.navbar ul li{ 
+    list-style: none;
+    display: inline-block;
+    padding-right:10px;
+}
+ 
+
+.statement_text {
+
+    background-color:whitesmoke;
+    padding: 8px;
+    margin-top: 20px;
+    border: 1px dashed greenyellow;
+}
+ 
