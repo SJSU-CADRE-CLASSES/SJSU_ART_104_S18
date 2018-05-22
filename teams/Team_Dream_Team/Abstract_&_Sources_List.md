@@ -1,38 +1,41 @@
+Abstract
 
-Cutting, James E.. "High-Performance Computing and Human Vision I." Behavior Research Methods, Instruments, & Computers 1, (1997): 27-34.. https://link.springer.com/content/pdf/10.3758%2FBF03200563.pdf (accessed Mar 21, 2018).
+	Virtual reality technology is widely known to be used in pop culture, especially in video games and internet social settings, particularly due to the increasing online presence of our generation. However, there are many other uses for virtual reality, such as in therapy to treat phobias and traumas. Through repeated stimulation of the same trauma or phobia over and over again, patients have shown progress and improvement, suggesting virtual reality can be a great tool in the medical practices, particularly in psychiatric and psychological treatment. This technology also enhances social interactions, and has shown to fulfill social needs. Virtual reality can mold minds in more ways than one. For example, people’s psychology can be changed through VR therapy when treating disorders or mental illnesses, or memories altered by simulating hyper-realistic situations and environments. The question is, what is it about virtual reality that can have such a large impact on our psychology? Does it have something to do with the uncanny valley concept or is there more to it than that? We explore the benefits and advantages of virtual reality technology, and later discuss the possible negative, ethical implications that this technology is currently used for and the future of it.  
 
-Julia Diemer et al.,. "The impact of perception and presence on emotional reactions: a review of research in virtual reality." Frontiers in Psychology (2015):. https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00026/full (accessed Apr 3, 2018).
 
-Gent, Edd. "NBC." N/A. 16 Feb 2018. https://www.nbcnews.com/mach/science/how-vr-helped-injured-skier-laurenne-ross-realize-her-olympic-ncna838766 (accessed Apr 3, 2018).
 
-Klinger, Evelyne, Stéphane Bouchard, Patrick Légeron, Stéphane Roy, Françoise Lauer, Isabelle Chemin, and Pierre Nugues. "Virtual reality therapy versus cognitive behavior therapy for social phobia: A preliminary controlled study." Cyberpsychology & behavior 8, no. 1 (2005): 76-88.
+Sources
 
-North, Max M., Sarah M. North, and Joseph R. Coble. "Virtual reality therapy: An effective treatment for phobias." (1998).
+1. Borst, Aline W. De, and Beatrice De Gelder. "Is It the Real Deal? Perception of Virtual Characters versus Humans: An Affective Cognitive Neuroscience Perspective." Frontiers in Psychology 6 (2015). 
 
-Opriş, David, Sebastian Pintea, Azucena García‐Palacios, Cristina Botella, Ştefan Szamosközi, and Daniel David. "Virtual reality exposure therapy in anxiety disorders: a quantitative meta‐analysis." Depression and anxiety 29, no. 2 (2012): 85-93.
+2. Chaturvedi, Himanshu. "Virtual humans and Photorealism: The effect of photorealism of interactive virtual humans in clinical virtual environment on affective responses." TigerPrints (2015): 5-53.
 
-David R. Patterson et al., "Virtual Reality Hypnosis for Pain Associated With Recovery From Physical Trauma." Intl. Journal of Clinical and Experimental Hypnosis (2010): 288-297.. https://www.tandfonline.com/doi/pdf/10.1080/00207141003760595?needAccess=true (accessed Apr 3, 2018).
+3. Dexter, Thomas. “Therapists Are Using VR Headsets to Cure Phobias.” VICE News, 26 Jan. 2018, news.vice.com/en_ca/article/zmqda5/therapists-are-using-vr-headsets-to-cure-phobias.
 
-Plante, Thomas G., Cara Cage, Sara Clements, and Allison Stover. "Psychological benefits of exercise paired with virtual reality: Outdoor exercise energizes whereas indoor virtual exercise relaxes." International Journal of Stress Management 13, no. 1 (2006): 108.
+4. Diemer, Julia, Andreas Mühlberger, Paul Pauli, and Peter Zwanzger. 2014. "Virtual reality exposure in anxiety disorders: Impact on psychophysiological reactivity." World Journal Of Biological Psychiatry 15, no. 6: 427-442. Academic Search Complete, EBSCOhost (accessed April 25, 2018).
 
-Price, Rob. "Business Insider." N/A. 28 Feb 2018. http://www.businessinsider.com/facebook-oculus-cpac-vr-shooting-demo-parkland-school-attack-2018-2 (accessed Apr 3, 2018).
+5. Dolven, Taylor, and Emma Fidel. "This prison is using VR to teach inmates how to live on the outside." Vice News . 27 Dec 2017. https://news.vice.com/en_us/article/bjym3w/this-prison-is-using-vr-to-teach-inmates-how-to-live-on-the-outside (accessed Apr 25, 2018).
 
-Rothbaum, Barbara Olasov, Larry F. Hodges, Rob Kooper, and Dan Opdyke. "Effectiveness of computer-generated (virtual reality) graded exposure in the treatment of acrophobia." The American journal of psychiatry 152, no. 4 (1995): 626.
+6. Duke University : https://psychiatry.duke.edu/virtual-reality-therapy-phobias  
 
-Sharples, Sarah, Sue Cobb, Amanda Moody, and John R. Wilson. "Virtual reality induced symptoms and effects (VRISE): Comparison of head mounted display (HMD), desktop and projection display systems." Displays 29, no. 2 (2008): 58-69.
+7. Greene, Michael. "Is VR a Game Changer?." Psychotherapy Networker, Washington 40, no. 6 (2016)
 
-Smith, Mark. "Virtual reality therapy to help veterans dealing with trauma." South Whales Echo, 19 Mar 2018, sec. NEWS; Pg. 19.
+8. Kool, Hollis. "The Ethics of Immersive Journalism: A Rhetorical Analysis of News Storytelling with Virtual Reality Technology." Intersect 9 (November 03, 2016). 
 
-Tamburin, Adam. "A virtual escape from addiction: Vanderbilt grad student is developing therapy through virtual reality that he thinks can help addicts in recovery." The Tennessean, 2018, sec. News.
+9. Lee, Yong-Il, Yeojeong Choi, and Jaeseung Jeong. "Character Drawing Style in Cartoons on Empathy Induction: An Eye-tracking and EEG Study." PeerJ 5 (2017). 
 
-Tamburin, Adam. "Why a researcher is using virtual reality to fight opioids." Asheville Citizen - Times, 26 Mar 2018, sec. News.
+10. Parkin, Simon. “How Virtual Reality Is Helping Heal Soldiers Suffering with PTSD.”NBCNews.com, NBCUniversal News Group, 16 Mar. 2017, www.nbcnews.com/mach/innovation/how-virtual-reality-helping-heal-soldiers-ptsd-n733816.
 
-Westerhoff, Nikolas. "Fantasy Therapy." Scientific American Mind 18, no. 5 (2007): 71-75..
+11. Price, Rob. "Business Insider." N/A. 28 Feb 2018. http://www.businessinsider.com/facebook-oculus-cpac-vr-shooting-demo-parkland-school-attack-2018-2 (accessed Apr 3, 2018).
 
-VR AND EDUCATION:
+12. Reynolds, Emily. "Virtual Reality makes Avatars more Important than Ever." Motherboard. 11 Dec 2016. https://motherboard.vice.com/en_us/article/pgkv9z/vr-makes-avatars-more-important-than-ever (accessed Apr 4, 2018).
 
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.7955&rep=rep1&type=pdf
+13. Seyama, Jun'ichiro, and Ruth S. Nagayama. 2007. "The Uncanny Valley: Effect of Realism on the Impression of Artificial Human Faces." Presence: Teleoperators & Virtual Environments 16, no. 4: 337-351. Academic Search Complete, EBSCOhost (accessed April 25, 2018).
 
-ETHICAL PROBLEMS WITH VR:
+14. Smith, Mark. "Virtual reality therapy to help veterans dealing with trauma." South Whales Echo, 19 Mar 2018, sec. NEWS; Pg. 19.
 
-https://www.vrs.org.uk/virtual-reality/ethical-issues.html 
+15. Tamburin, Adam. "A virtual escape from addiction: Vanderbilt grad student is developing therapy through virtual reality that he thinks can help addicts in recovery." The Tennessean, 2018, sec. News.
+
+16. Westerhoff, Nikolas. "Fantasy Therapy." Scientific American Mind 18, no. 5 (2007): 71-75.
+
+17. Yu, Sen-Chi, and Chien Chou. 2009. "Does authentic happiness exist in cyberspace? Implications for understanding and guiding college students' Internet attitudes and behaviours." British Journal Of Educational Technology 40, no. 6: 1135-1138. Academic Search Complete, EBSCOhost (accessed April 25, 2018).
