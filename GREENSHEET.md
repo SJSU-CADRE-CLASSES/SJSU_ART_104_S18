@@ -32,15 +32,13 @@ Learning Outcomes
 Textbook
 --------
 
-Readings will be assigned throughout the class. No textbook is required for the class and all readings will be presented through the class git. 
+Readings will be assigned throughout the class. 
 
-Suggested texts include: (optional)
+Suggested texts include:
 
-SWITCH internet archive
-Expanded Cinema - Gene Youngblood
-Sensorium, Embodied Experience, Technology, and Contemporary Art
-A History of the Senses - Robert Jutte
-Darwin’s Pharmacy - Richard M. Doyle
+James Bridle, New Dark Age: Technology and the End of the Future
+Siva Vaidhyanathan, Antisocial Media: How Facebook Disconnects Us and Undermines Democracy
+Jaron Lanier, Ten Arguments for Deleting Your Social Media Accounts Right Now
 
 Classroom Protocol
 ==================
@@ -55,17 +53,22 @@ Participation
 Grading Policy
 --------------
 
-**Seminar Participation = 10% + 10%** 
+**Seminar Participation and Discussion = 10% + 10%**
 
 It is required that you attend and participate regularly in seminar discussion, this will account for 10% of your grade. The course includes engaged group dialogue and student-lead presentations of the assigned readings along with visual material. The student-lead presentations will be assigned at the beginning of the semester and your presentation and preparedness will account for an additional 10% of your grade. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
 
-**Weekly Reading Responses = 60% (12 x 5% each response)** 
+**Studio Visit and work presentation = 20%**
 
-Required weekly reading and writing assignments must be submitted on the day they are due. Students will submit a double-spaced typed written response per reading assignment (see course schedule for details). Reading responses will illustrate your brief summary of, along with your questions and challenges to, the text. Please use paragraph format, and spell-check - no bullet points. Reading responses will be assessed based upon quality and specificity of your response, as well as attention to key ideas from the assigned readings. 
+Throughout the course of the semester students will be asked to present their current work to the seminar as an open studio visit. Students are responsible for presenting their work in a professional manner.
 
-**Final Paper and Research Presentation = 20%** 
+**Professional Practice = 20%**
 
-The class will conclude with a 7-page written paper. Final papers and research projects must demonstrate comprehension of, and engagement with, at least two of the primary seminar themes and topics. Research leading to the final presentation will begin in early November when the final project assignment is given.
+Throughout the semester students will need to engage with the professional art community. This can take the form of applications to professional conferences, SWITCH Journal participation, or art exibitions.
+
+**Final Research and Art Project = 40%** 
+
+Final papers and research projects must demonstrate comprehension of, and engagement with, at least two of the primary seminar themes and topics. Research leading to the final presentation will begin in early November.
+
 
 
 Schedule
